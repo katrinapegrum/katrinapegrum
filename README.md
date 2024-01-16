@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am in my 4th year at McMaster University and was introduced to GitHub through my class CHEM 3PA3. I'm currently learning how to code in python and using google colab. My favourite hobby is spearfishing. 
+
 <!--
 **katrinapegrum/katrinapegrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
